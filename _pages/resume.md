@@ -1,7 +1,7 @@
 ---
 layout: pdf
 permalink: /resume/
-title: resume
+title: Resume
 description: 
 nav: true
 ---
