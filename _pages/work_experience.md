@@ -5,7 +5,7 @@ title: Work experience
 description:
 nav: true
 ---
-**HPC Student Assistant II** *Dec 2020 - Present* </br>
+**HPC Student Assistant II** *Dec 2020 - Present*\
 National Center for Atmospheric Research, Boulder, CO
 
 * Port and optimize parallel algorithms, including message passing, data transfers, and memory management
@@ -13,7 +13,7 @@ National Center for Atmospheric Research, Boulder, CO
 * Document and contribute to presentations, and conduct workshops for atmospheric scientists
 
 
-**Undergraduate Research Intern** *May 2019- Aug 2019* </br>
+**Undergraduate Research Intern** *May 2019- Aug 2019*\
 National Center for Atmospheric Research, Boulder, CO
 
 * Built an interactive tool using Matplotlib and Pandas to output in situ atmospheric measurements at a point on a radar image
