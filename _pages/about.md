@@ -17,7 +17,7 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Krishna. I am a first year Masters student in Computer Science at the University of Colorado, Boulder. My research here involves Sim-to-Real transfer of Machine Learning models for robotic tasks such as grasping, at the <a href="https://hiro-group.ronc.one/people.html" target="blank">HIRO Lab</a>.
+Hi, I am Krishna. I am a first year Masters student in Computer Science at the University of Colorado, Boulder.
 
 Before this, I graduated with my Bachelor's degree in Computer Science from the University of Wyoming. My research at <a href="https://mallet.ai" target="blank">Mallet Lab</a> at the University of Wyoming involved exploring scenarios where Algorithm selection systems performed poorly to leverage that information and improve such systems in practice. 
 
